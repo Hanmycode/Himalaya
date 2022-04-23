@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">喜马拉雅</string>
+
+    <string-array name="indicator_title">
+        <item>推荐</item>
+        <item>订阅</item>
+        <item>历史</item>
+    </string-array>
+
+    <string name="play_mode_list_order_text">顺序播放</string>
+    <string name="play_mode_list_loop_text">列表循环</string>
+    <string name="play_mode_random_text">随机播放</string>
+    <string name="play_mode_single_loop_text">单曲循环</string>
+    <string name="reverse_text">倒序</string>
+    <string name="order_text">正序</string>
+    <string name="click_play_tips_text">点击播放</string>
+    <string name="main_listen_you_like">随便听听</string>
+    <string name="search_text">搜索</string>
+    <string name="suggest_search_text">推荐搜索</string>
+    <string name="please_input_tips">请输入要搜索的专辑</string>
+    <string name="subscribe_btn_text">+ 订阅</string>
+    <string name="cancel_subscribe_btn_text">取消订阅</string>
+    <string name="subscribe_fail_tips_text">订阅失败</string>
+    <string name="subscribe_success_tips_text">订阅成功</string>
+    <string name="cancel_subscribe_fail_tips_text">取消订阅失败</string>
+    <string name="cancel_subscribe_success_tips_text">已取消订阅</string>
+    <string name="subscription_over">订阅已满</string>
+    <string name="cancel_sub_success_tips">已取消订阅</string>
+    <string name="cancel_sub_fail_tips">取消订阅失败</string>
+    <string name="dialog_question">取消订阅该专辑吗？</string>
+    <string name="cancel_sub_btn_text">取消订阅</string>
+    <string name="give_up_cancel_sub_btn_text">我再想想</string>
+    <string name="fragmrnt_empty_tips_1">呜呜~没有内容...</string>
+    <string name="empty_view_sub_tips">暂无订阅内容, 赶紧去订阅吧!</string>
+    <string name="empty_view_search_tips">没找到相关结果</string>
+    <string name="delete_all_histories_tips">清空所有历史记录</string>
+    <string name="del_history_dialog_question_tips">删除当前历史记录吗?</string>
+    <string name="delete_history_btn_text">删除</string>
+    <string name="give_up_del_history_btn_text">我再想想</string>
+    <string name="empty_view_no_history_tips">暂无播放历史</string>
+
+
+</resources>
